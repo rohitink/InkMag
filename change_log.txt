@@ -1,0 +1,15 @@
+Changes with Theme Updates:
+
+Version 1.0:
+
+	i) Initial Release
+	
+Version 1.1
+
+	i) 		add_theme_support( 'post-thumbnails' ); is now called from within the after_setup_theme action.
+	ii)		License and Copyrights More Properly Declared.(licese.txt and copyrights.txt) 	
+	iii)	Theme URI in style.css No Longers gives a 404 Error.
+	iv)		Sidebar menu depth styled in order to display as it was intended to.
+	v) 		Super Duper Long title does not overflows it container anymore. Browser Compatibility fixed.
+	vi) 	Some Issues related to the responsive Design also fixed.
+	

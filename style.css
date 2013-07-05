@@ -1,6 +1,6 @@
 /*
 Theme Name: InkMag
-Theme URI: http://inkupdates.com/inkmag-wordpress-theme/
+Theme URI: http://inkupdates.com/2013/06/04/inkmag-neat-clean-responsive-wordpress-theme/
 Author: Rohit Tripathi
 Author URI: http://inkupdates.com
 Description: A Very lightweight responsive theme Ideal for most blogs.
@@ -645,7 +645,7 @@ object {
 	margin: auto;
 }
 .site-branding {
-	width: 33%;
+	width: 34%;
 	float: left;
 }
 .site-branding h1 {
@@ -660,7 +660,7 @@ object {
 	text-decoration: none;
 }
 #site-navigation {
-	width: 66%;
+	width: 65%;
 	float: right;
 }
 
@@ -683,10 +683,13 @@ object {
 	padding: 25px;
 	border: solid 1px #eee;
 }
+header.entry-header {
+	overflow-x: scroll;
+}
 .entry-title a, .entry-title {
 	font-size: 35px;
 	text-decoration: none;
-	color: #900;/*#890000;#A4160F;*/ 
+	color: #900;
 	font-family: Arial, Arial, Helvetica, sans-serif;
 	transition: all 0.2s ease;
 }
@@ -872,6 +875,13 @@ aside.widget ul li a {
 	display: block;
 	padding: 3px 0px;
 }
+aside.widget_nav_menu ul ul li {
+	padding-left: -15px;
+	list-style: disc;
+	margin-left: 20px;
+}
+
+	
 
 /*footer*/
 

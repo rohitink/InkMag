@@ -13,3 +13,7 @@ Version 1.1
 	v) 		Super Duper Long title does not overflows it container anymore. Browser Compatibility fixed.
 	vi) 	Some Issues related to the responsive Design also fixed.
 	
+Version 1.2
+	
+	i) Changed Theme URI	
+	

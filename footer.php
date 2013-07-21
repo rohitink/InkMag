@@ -16,7 +16,7 @@
 			<?php do_action( 'inkmag_credits' ); ?>
 			<a href="http://wordpress.org/" title="<?php esc_attr_e( 'A Semantic Personal Publishing Platform', 'inkmag' ); ?>" rel="generator"><?php printf( __( 'Proudly powered by %s', 'inkmag' ), 'WordPress' ); ?></a>
 			<div class='clear'></div>
-			<?php printf( __( '%1$s Theme by %2$s', 'inkmag' ), 'InkMag', '<a href="http://inkupdates.com" rel="designer">InkUpdates</a>' ); ?>
+			<?php printf( __( '%1$s Theme by %2$s', 'inkmag' ), 'InkMag', '<a href="http://github.com/rohitink/" rel="designer">Rohit Tripathi' ); ?>
 		</div><!-- .site-info -->
         
         
